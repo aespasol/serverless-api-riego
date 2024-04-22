@@ -7,7 +7,7 @@ const cors = require("cors");
 
 const app = express();
 const dbCloudUrl = 
-"mongodb+srv://christineroseriego0125:riegochristine12345@cluster0.5rt9ogp.mongodb.net/mongodb+srv://christineroseriego0125:QfShdkWnW0k8YwoB@cluster0.5rt9ogp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+"mongodb+srv://christineroseriego0125:riegochristine12345@cluster0.5rt9ogp.mongodb.net/";
 
 app.use(cors());
 app.use(express.json());
