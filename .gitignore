@@ -1,0 +1,21 @@
+
+# module directory
+node_modules/
+.netlify
+
+
+.env
+.env.local
+.env.*.local
+
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+
+package-lock.json
+
+yar.lock
